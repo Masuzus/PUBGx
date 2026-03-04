@@ -1,0 +1,5 @@
+{
+  "name": "Battle Royale",
+  "description": "A multiplayer battle royale shooting game where players spawn randomly, loot boxes for weapons and skills, and fight to be the last one standing.",
+  "requestFramePermissions": []
+}
